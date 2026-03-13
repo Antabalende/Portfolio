@@ -10,8 +10,8 @@ export default function Navbar() {
         <li><a href="#home">Accueil</a></li>
         <li><a href="#about">À propos</a></li>
         <li><a href="#skills">Compétences</a></li>
-        <li><a href="#projects">Projets</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <li><a href="#projets">Projets</a></li>
+        <li><a href="#contact">Contacts</a></li>
       </ul>
 
     </nav>

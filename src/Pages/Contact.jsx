@@ -7,7 +7,7 @@ return(
 
 <section className="contact" id="contact">
 
-<h2>Contact</h2>
+<h2>Contacts</h2>
 
 <p>N'hésitez pas à me contacter pour toute opportunité de stage ou d'une alternance.</p>
 

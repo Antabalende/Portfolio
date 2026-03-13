@@ -1,16 +1,16 @@
-.projects{
+.projets{
 padding:80px 60px;
 background:#020617;
 }
 
-.projects-grid{
+.projets-grid{
 display:grid;
 grid-template-columns:repeat(3,1fr);
 gap:25px;
 margin-top:40px;
 }
 
-.project-card{
+.projet-card{
 background:#0f172a;
 padding:25px;
 border-radius:12px;
@@ -18,7 +18,7 @@ border:1px solid #1e293b;
 transition:0.3s;
 }
 
-.project-card:hover{
+.projet-card:hover{
 transform:translateY(-5px);
 border-color:#38bdf8;
 }

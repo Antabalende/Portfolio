@@ -4,31 +4,50 @@ export default function Projects(){
 
 return(
 
-<section className="projects" id="projects">
+<section className="projets" id="projets">
 
 <h2>Projets</h2>
 
-<div className="projects-grid">
+<div className="projets-grid">
 
-<div className="project-card">
-<h3>Support IT - COFINA</h3>
-<p>Support utilisateurs et maintenance systèmes.</p>
+<div className="projet-card">
+<h3>Automatisation Linux</h3>
+
+<p>
+Scripts Bash pour automatiser des tâches système
+et surveiller les processus Linux.
+</p>
+
+<span>Bash • Linux</span>
 </div>
 
-<div className="project-card">
-<h3>Inventaire réseau</h3>
-<p>Inventaire des équipements réseau chez Airtel.</p>
+<div className="projet-card">
+<h3>Application Java</h3>
+
+<p>
+Développement d'une application Java
+avec manipulation de structures de données
+et consommation d'API REST.
+</p>
+
+<span>Java • API REST</span>
 </div>
 
-<div className="project-card">
-<h3>Site web commercial</h3>
-<p>Application web pour le suivi des activités commerciales.</p>
+<div className="projet-card">
+<h3>Site Web Commercial</h3>
+
+<p>
+Application web facilitant le suivi des activités
+du service commercial.
+</p>
+
+<span>PHP • HTML • CSS • MySQL</span>
 </div>
 
 </div>
 
 </section>
 
-);
+)
 
 }
