@@ -26,3 +26,20 @@ color:white;
 .nav-links a:hover{
 color:#38bdf8;
 }
+.navbar{
+position:fixed;
+top:0;
+left:0;
+width:100%;
+
+display:flex;
+justify-content:space-between;
+align-items:center;
+
+padding:20px 60px;
+background:#020617;
+
+border-bottom:1px solid #1e293b;
+
+z-index:1000;
+}
