@@ -1,0 +1,19 @@
+.lab{
+padding:80px 60px;
+background:#020617;
+color:white;
+}
+
+.lab-grid{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:30px;
+margin-top:40px;
+}
+
+.lab-card{
+background:#0f172a;
+padding:25px;
+border-radius:10px;
+border:1px solid #1e293b;
+}

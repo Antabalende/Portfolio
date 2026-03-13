@@ -1,0 +1,37 @@
+.contact{
+padding:100px 60px;
+background:#020617;
+text-align:center;
+}
+
+.contact h2{
+color:#38bdf8;
+margin-bottom:20px;
+}
+
+.contact p{
+color:#94a3b8;
+margin-bottom:40px;
+}
+
+.contact-info{
+display:grid;
+grid-template-columns:repeat(4,1fr);
+gap:25px;
+}
+
+.contact-card{
+background:#0f172a;
+padding:25px;
+border-radius:10px;
+border:1px solid #1e293b;
+}
+
+.contact-card h3{
+color:#38bdf8;
+margin-bottom:10px;
+}
+
+.contact-card p{
+color:#94a3b8;
+}
